@@ -1,0 +1,62 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 100vw;
+    background-color: green;
+    font-family: 'Diplomata SC', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+.navbar_{
+    font-family: 'Merriweather', serif;
+    background-color: red;
+    font-size: 45px;
+    font-weight: 800;
+}
+.img-class{
+    width: 200px;
+}
+.c1{
+    padding: 10px;
+    background-color: red;
+    border-radius: 5%;
+    font-size: 32px; 
+    font-weight: 700;
+}
+
+.gap{
+    padding: 30px;
+}
+.c2{
+    
+    color:turquoise;
+}
+
+.circle1{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: white;
+    padding-top: 40px;
+}
+
+
+a:hover{
+    color: blue;
+}
+
+.c3{
+    word-spacing: 30px;
+}
+
+.fb , .insta{
+    text-decoration: none;
+}
+
+.fb :hover{
+    background-color: blue;
+}
+.insta :hover{
+    background-color: purple;
+}
