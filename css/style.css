@@ -1,7 +1,7 @@
 body{
     font-family: 'Source Sans Pro', sans-serif;
     width: 100vw;
-    background-color: green;
+    background-color: rgb(65,65,65);
     font-family: 'Diplomata SC', cursive;
     font-family: 'Ubuntu', sans-serif;
     color: white;
@@ -10,7 +10,7 @@ body{
 
 .navbar_{
     font-family: 'Merriweather', serif;
-    background-color: red;
+    background-color: rgb(102, 102, 255);
     font-size: 45px;
     font-weight: 800;
 }
@@ -19,7 +19,7 @@ body{
 }
 .c1{
     padding: 10px;
-    background-color: red;
+    background-color: rgb(102, 102, 255);
     border-radius: 5%;
     font-size: 32px; 
     font-weight: 700;
@@ -56,6 +56,7 @@ a:hover{
 
 .fb :hover{
     background-color: blue;
+    color: white;
 }
 .insta :hover{
     background-color: purple;
